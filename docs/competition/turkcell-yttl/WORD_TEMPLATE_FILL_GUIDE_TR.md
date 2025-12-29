@@ -46,7 +46,7 @@ APPLICATION_TEXT_BLOCKS_TR.md içeriğini Word şablonuna hızlıca yerleştirme
     - Şablondaki kişisel alanları yer tutucularla doldurun; PDF oluşturulurken gerçek bilgilerle güncellenecek.
 
 ## Kontrol listesi
-- AKIS referansı yok.  
+- Önceki/diğer proje ve marka referansı yok.  
 - Kişisel veriler yer tutucularla işaretli.  
 - Kelime sınırları korunuyor (yaklaşık aralıklar).  
 - Gizlilik uyarıları veya mahremiyet notları kaldırılmadı.  
